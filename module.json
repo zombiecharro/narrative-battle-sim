@@ -13,7 +13,7 @@
   "esmodules": [],
   "packs": [],
   "url": "https://github.com/zombiecharro/narrative-battle-sim",
-  "manifest": "https://raw.githubusercontent.com/zombiecharro/narrative-battle-sim/refs/heads/main/module.json",
+  "manifest": "https://raw.githubusercontent.com/zombiecharro/narrative-battle-sim/refs/heads/main/module.json?v=3",
   "download": "https://github.com/zombiecharro/narrative-battle-sim/archive/main.zip",
   "minimumCoreVersion": "0.8.6",
   "compatibleCoreVersion": "9"
